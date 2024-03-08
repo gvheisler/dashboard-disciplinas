@@ -18,6 +18,10 @@ Utilizamos o software Power BI para desenvolver o dashboard, escolhido devido à
 
 ### 4. Implementação de Funcionalidades Interativas
 O dashboard foi projetado com funcionalidades interativas para aprimorar a experiência do usuário, como filtros e seletores para personalizar a visualização dos dados.
+<div style="text-align: center;">
+    <img src="images/Escolha_disciplinas.png" alt="Filtro" width="400"/>
+</div>
+
 
 ### 5. Manutenção e Melhorias Contínuas
 O desenvolvimento do dashboard é um processo contínuo, com melhorias regulares com base no feedback dos usuários e nas mudanças nas necessidades e requisitos do curso.
@@ -28,6 +32,8 @@ Visão Específica sobre Disciplinas
 Visão Geral sobre o Curso
 
 ## Como Replicar
+É necessária uma planilha contendo colunas específicas
+
 
 Referências
 Power BI
