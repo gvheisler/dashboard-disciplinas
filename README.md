@@ -2,7 +2,10 @@
 Este projeto, desenvolvido como uma das atividades do PET-CC, visa desenvolver um dashboard interativo para monitorar o desempenho dos alunos nas disciplinas do curso de Ciência da Computação da Universidade Federal de Santa Maria (UFSM). O dashboard utiliza dados fornecidos pela secretaria do curso para fornecer insights sobre tendências acadêmicas e auxiliar os alunos na seleção de disciplinas de maneira mais informada.
 
 ## Etapas do Projeto
-![Metodologia](images/metodologia-1.png)
+<div style="text-align: center;">
+    <img src="images/metodologia-1.png" alt="Metodologia" width="400"/>
+</div>
+
 
 ### 1. Coleta de Dados
 Os dados foram obtidos a partir das tabelas fornecidas pela secretaria do curso, contendo informações sobre o desempenho dos alunos em cada disciplina ao longo do tempo.
