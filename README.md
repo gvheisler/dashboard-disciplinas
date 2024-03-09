@@ -27,14 +27,16 @@ O dashboard foi projetado com funcionalidades interativas para aprimorar a exper
 O desenvolvimento do dashboard é um processo contínuo, com melhorias regulares com base no feedback dos usuários e nas mudanças nas necessidades e requisitos do curso.
 
 ## Visualizações do Dashboard
-Visão Específica sobre Disciplinas
+### Consulta de disciplina específica
+![Visão de disciplina específica](images/dashboard-images/main%20dashboard-1.png)
 
-Visão Geral sobre o Curso
+### Visão geral do curso
+![Visão geral do curso](images/dashboard-images/main%20dashboard-2.png)
 
 ## Como Replicar
 É necessária uma planilha contendo colunas específicas
 
 
-Referências
-Power BI
-Universidade Federal de Santa Maria
+## Links
+[Programa de Educação Tutorial do curso de Ciência da Computação da UFSM](https://www.ufsm.br/pet/ciencia-da-computacao "Site do PET-CC da UFSM")
+[Ciência da Computação da UFSM](https://www.ufsm.br/cursos/graduacao/santa-maria/ciencia-da-computacao "Site do curso de Ciência da Computação da UFSM")
