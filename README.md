@@ -34,7 +34,7 @@ O desenvolvimento do dashboard é um processo contínuo, com melhorias regulares
 ![Visão geral do curso](images/dashboard-images/main%20dashboard-2.png)
 
 ## Como Replicar
-É necessária uma planilha contendo colunas específicas. No arquivo [table-head.txt](https://github.com/gvheisler/dashboard-disciplinas/ "table head") pode-se ver as colunas necessárias.
+É necessária uma planilha contendo colunas específicas. No arquivo [table-head.txt](https://github.com/gvheisler/dashboard-disciplinas/blob/main/table-head.txt "table head") pode-se ver as colunas necessárias.
 
 
 ## Links
