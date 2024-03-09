@@ -39,4 +39,5 @@ O desenvolvimento do dashboard é um processo contínuo, com melhorias regulares
 
 ## Links
 [Programa de Educação Tutorial do curso de Ciência da Computação da UFSM](https://www.ufsm.br/pet/ciencia-da-computacao "Site do PET-CC da UFSM")
+
 [Ciência da Computação da UFSM](https://www.ufsm.br/cursos/graduacao/santa-maria/ciencia-da-computacao "Site do curso de Ciência da Computação da UFSM")
