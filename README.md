@@ -1,4 +1,4 @@
-# Dashboard de Disciplinas
+# Dashboard de Disciplinas com Power BI
 Este projeto, desenvolvido como uma das atividades do PET-CC, visa desenvolver um dashboard interativo para monitorar o desempenho dos alunos nas disciplinas do curso de Ciência da Computação da Universidade Federal de Santa Maria (UFSM). O dashboard utiliza dados fornecidos pela secretaria do curso para fornecer insights sobre tendências acadêmicas e auxiliar os alunos na seleção de disciplinas de maneira mais informada.
 
 ## Etapas do Projeto
