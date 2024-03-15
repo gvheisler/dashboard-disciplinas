@@ -18,8 +18,8 @@ disciplinas <- read_excel("Disciplinas_curriculo2024.xlsx")
 
 names(disciplinas)[names(disciplinas) == "COD"] <- "Cod"
 
-merged_data <- merge(ds2, disciplinas[, c("Cod", "Sem")], by.x = "COD_DISCIPLINA", by.y = "Cod", all.x = TRUE)
+merged_data <- merge(dados_totais, disciplinas[, c("Cod", "Sem")], by.x = "COD_DISCIPLINA", by.y = "Cod", all.x = TRUE)
 
 merged_data$Sem[is.na(merged_data$Sem)] <- "Inativo"
 
-write.csv(merged_data, "resultado_final.csv")
+write.csv(merged_data, "disciplinas_completo.csv")
